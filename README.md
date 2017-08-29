@@ -1,3 +1,6 @@
+
+感谢大师杰作，拿过来做存档，鸣谢BGARefreshLayout
+
 :running:BGARefreshLayout-Android:running:
 ============
 
