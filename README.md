@@ -1,5 +1,6 @@
 
 感谢大师杰作，拿过来做存档，鸣谢BGARefreshLayout
+加入了中间部分的悬浮，也可以刷新，加载功能很棒
 
 :running:BGARefreshLayout-Android:running:
 ============
